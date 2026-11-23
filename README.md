@@ -20,9 +20,8 @@
 
 ## Agrupaciones realizadas
 - Default por nivel educativo
-- Límite de crédito promedio por sexo
+- Default por sexo
 - Default según el rango de límite de crédito
-- Edad promedio por sexo
 
 ## Cómo reproducir
 1. Descargar UCI_Credit_Card.csv (incluido en este repositorio).
