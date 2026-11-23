@@ -26,4 +26,4 @@
 
 ## Cómo reproducir
 1. Descargar UCI_Credit_Card.csv (incluido en este repositorio).
-2. Ejecutar el notebook de principio a fin.
+2. Abrir y ejecutar de principio a fin el notebook Limpieza_datos_pandas.ipynb.
